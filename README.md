@@ -15,3 +15,9 @@ Here are all the commands you can use:
 /help: show this list
 /list: list all the online users
 /message: whisper to somebody
+
+packages:
+/codes -> all .java files
+/files -> all .txt files, storing usernames and passwords
+
+I originally had plans to try build a graphical user interface using swing, but the plan was never realized.

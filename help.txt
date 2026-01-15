@@ -1,0 +1,6 @@
+
+Here are all the commands you can use:
+/exit: exit the chat room
+/help: show this list
+/list: list all the online users
+/message: whisper to somebody
